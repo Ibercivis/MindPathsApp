@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MindPathsApp</string>
+    <string name="hello_world">¡Hola mundo!</string>
+    <string name="action_settings">Configuración</string>
+    <string name="info_action">Información</string>
+    <string name="start_word_desc">Palabra inicial</string>
+    <string name="start_word">Inicio</string>
+	<string name="target_word_desc">Palabra final</string>
+    <string name="target_word">Objetivo</string>
+    <string name="word1">Vecino 1</string>
+    <string name="word2">Vecino 2</string>
+    <string name="word3">Vecino 3</string>
+    <string name="word4">Vecino 4</string>
+    <string name="word5">Vecino 5</string>
+    <string name="word6">Vecino 6</string>
+    <string name="word7">Vecino 7</string>
+    <string name="word8">Vecino 8</string>
+	<string name="word9">Vecino 9</string>
+	<string name="word10">Vecino 10</string>
+	<string name="word11">Vecino 11</string>
+	<string name="word12">Vecino 12</string>
+	<string name="completed_toast">Tarea completada con éxito</string>
+	<string name="exceeded_steps_toast">Camino demasiado largo, nuevo par de palabras</string>
+	<string name="path_text">Camino</string>
+	<string name="path_button">Camino</string>
+	<string name="general_info_title">Info general</string>
+	<string name="general_info_dialog_text">Se debe intentar llegar desde la palabra inicial (arriba a la izquierda) a la final (abajo a la derecha) seleccionando entre las vecinas de la primera. Ésta se actualiza con la seleccionada y sus nuevas vecinas. Se puede consultar el camino completo con el botón rojo de abajo. Los botones de la derecha proponen un nuevo par de palabras (el de arriba) o resetean el par actual (el de abajo).\n\nMás información sobre el objetivo del experimento en socientize.eu.</string>
+</resources>
